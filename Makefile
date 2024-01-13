@@ -1,4 +1,4 @@
-NAME = test.elf
+NAME = Snakey.elf
 IDIR =../Data/include
 CC=gcc
 CFLAGS=-I$(IDIR)
